@@ -1,0 +1,121 @@
+[0m[0KMicrosoft Windows [Versión 10.0.17134.648][0K[?25l
+(c) 2018 Microsoft Corporation. Todos los derechos reservados.[0K
+[0K
+C:\Users\romcl\OneDrive\Documents\UbiqumCodeAcademy\projects\shiny_workshop>[0K[?25h[?25l[3AMicrosoft Windows [Versión 10.0.17134.6[0K4
+8][0K
+(c) 2018 Microsoft Corporation. Todos l[0Ko
+s derechos reservados.[0K
+[0K
+C:\Users\romcl\OneDrive\Documents\Ubiqu[0Km
+CodeAcademy\projects\shiny_workshop>[0K[?25hg[0Ki[0Kt[0K[?25l
+[0K[?25hi[0Kn[0Ki[0Kt[0K[?25l
+[0K[?25h]0;  - git  init]0; Initialized empty Git repository in C:/[0KU[?25l
+sers/romcl/OneDrive/Documents/UbiqumCod[0Ke
+Academy/projects/shiny_workshop/.git/[0K
+[0K
+C:\Users\romcl\OneDrive\Documents\Ubiqu[0Km
+CodeAcademy\projects\shiny_workshop>[0K[?25hg[0Ki[0Kt[0K[?25l
+[0K[?25ha[0Kd[0Kd[0K[5G[4G[?25lad[0K[?25h[?25la[0K[?25h[?25l[0K[?25hs[0Kt[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include i[0Kn
+ what will be committed)[0K
+[0K
+        [0;31m.Rhistory[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mapp.R[0m[0K
+        [0;31mdata/[0m[0K
+        [0;31mscripts/[0m[0K
+        [0;31mshiny_workshop.Rproj[0m[0K
+[0K
+nothing added to commit but untracked f[0Ki
+les present (use "git add" to track)[0K
+[0K
+C:\Users\romcl\OneDrive\Documents\Ubiqu[0Km
+CodeAcademy\projects\shiny_workshop>[0K[?25hg[0Ki[0Kt[0K[?25l
+[0K[?25ha[0Kd[0Kd[0K[5G[?25ladd .[0K[?25h]0;  - git  add .[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in[0K[?25l
+.Rhistory.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/pcs/files-pane.ppe[0Kr
+.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/pcs/source-pane.pp[0Ke
+r.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in[0K[?25l
+.Rproj.user/C0F26720/pcs/windowlayoutst[0Ka
+te.pper.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/pcs/workbench-pane[0K.
+pper.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/rmd-outputs.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/prop/1E79C[0KF
+97.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/prop/A3103[0KB
+6C.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in[0K[?25l
+.Rproj.user/C0F26720/sources/prop/EE6A1[0K5
+A.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/prop/INDEX[0K.
+[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/s-BAB58D21[0K/
+3C30C69D.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/s-BAB58D21[0K/
+3C30C69D-contents.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+.Rproj.user/C0F26720/sources/s-BAB58D21[0K/
+9EBFEA77-contents.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in[0K[?25l
+.Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+warning: LF will be replaced by CRLF in[0K
+data/.Rhistory.[0K
+The file will have its original line en[0Kd
+ings in your working directory.[0K
+[0K[?25h]0; [?25l
+C:\Users\romcl\OneDrive\Documents\Ubiqu[0Km
+CodeAcademy\projects\shiny_workshop>[0K[?25hg[0Ki[0Kt[0K[?25l
+[0K[?25h[?25l[1A[40G[?25h[?25lCodeAcademy\projects\shiny_workshop>gi[0K
+[0K[1A[39G[?25h[?25lCodeAcademy\projects\shiny_workshop>g[0K
+[0K[1A[38G[?25h[?25lCodeAcademy\projects\shiny_workshop>[0K
+[0K[1A[37G[?25h[?25lCodeAcademy\projects\shiny_workshop>g[0K
+[0K[1A[38G[?25h[?25lCodeAcademy\projects\shiny_workshop>gi[0K
+[0K[1A[39G[?25h[?25lCodeAcademy\projects\shiny_workshop>git[0K
+[0K[1A[40G[?25h[?25l
+[?25ha[0Kd[0Kd[0K[5G[?25ladd .[0K[?25h

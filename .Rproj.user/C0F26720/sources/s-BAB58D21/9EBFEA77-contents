@@ -1,0 +1,38 @@
+
+# libraries ----
+if (require(pacman) == FALSE) {
+  install.packages("pacman")
+}
+
+pacman::p_load(shiny, shinydashboard)
+
+# loading data ----
+df <- read.csv("data/Blackwell_Demographic_Data.csv")
+
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Header"),
+  dashboardSidebar(
+    menuItem(
+      tabName = "first_menu", text = "1st option",
+      sliderInput(inputId = "cool_sidebar", label = "Choose nº of breaks:", 
+                  min = 2, max = 10, value = 6)
+    )
+  ),
+  dashboardBody(
+    fluidRow(
+      box(
+        plotOutput(outputId = "histogram_plot")
+      )
+    )
+  )
+)
+
+server <- function(input, output) {
+  output$histogram_plot <- renderPlot({
+    hist(df$age, breaks = input$cool_sidebar)
+  })
+}
+
+shinyApp(ui, server)
+
